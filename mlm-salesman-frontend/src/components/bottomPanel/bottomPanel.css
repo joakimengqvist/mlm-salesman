@@ -1,0 +1,28 @@
+.bottom-panel {
+    border-top: 1px solid #003366;
+    background: gray;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding: 10px 0px;
+}
+
+.bottom-panel-result {
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+button {
+    padding: 8px 15px;
+    margin: 0 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:disabled {
+    cursor: not-allowed;
+}
