@@ -13,8 +13,8 @@ Before you begin, ensure you have the following installed:
 
 ## Start frontend
 
-´´npm install´´
-´´npm run dev´´
+```npm install```
+```npm run dev```
 
 ## Start backend
-´´start running on http locally´´
+```start running on http locally```
